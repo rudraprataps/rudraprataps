@@ -9,7 +9,7 @@
 <a href="https://twitter.com/RudraP01">
 <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=100008243884169" target=""_blank>
+<a href="https://www.facebook.com/profile.php?id=100008243884169" target="_blank">
 <img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br />
