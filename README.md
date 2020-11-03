@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align=""> <img src="https://komarev.com/ghpvc/?username=rudraprataps" alt="rudraprataps" /> </p>
-<a href="https://mail.google.com/mail/rudraprataps0110@gmail.com">
+<a href="https://mail.google.com/mail/u/1/rudraprataps0110@gmail.com">
 <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/rudra-pratap-singh-369176191/">
