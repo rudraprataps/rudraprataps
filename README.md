@@ -7,7 +7,7 @@ My name is Rudra Pratap Singh currently persuing BTech in ECE from Vellore Insti
 - 👯 I’m looking to collaborate on IOT and JAVA projects. 
 - 🤔 I’m looking for help with Android Development as i just started with it. 
 - 💬 Ask me about anything releated tech or from ECE and CSE fields.
-- 📫 How to reach me: You can contact me through mail preferably or LinkedIN.  
+- 📫 How to reach me: You can contact me through mail preferably or LinkedIn.  
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Love to work on new projects on electronics or Java. 
 
