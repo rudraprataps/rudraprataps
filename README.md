@@ -1,6 +1,5 @@
 ### Hi there 👋
 <p align=""> <img src="https://komarev.com/ghpvc/?username=rudraprataps" alt="rudraprataps" /> </p>
-<br/>
 My name is Rudra Pratap Singh currently persuing BTech in ECE from Vellore Institute of Technology. I am an IOT and JAVA enthusiast and made many projects on it.  
 
 - 🔭 I’m currently working on Social Distancing Device using Arduino. 
