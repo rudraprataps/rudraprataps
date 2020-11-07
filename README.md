@@ -25,6 +25,5 @@ My name is Rudra Pratap Singh currently persuing BTech in ECE from Vellore Insti
 <a href="https://www.facebook.com/profile.php?id=100008243884169">
 <img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<br />
 
 
