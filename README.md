@@ -12,7 +12,7 @@ My name is Rudra Pratap Singh currently persuing BTech in ECE from Vellore Insti
 - ⚡ Fun fact: Love to work on new projects on electronics or Java. 
 
 # Contact Me
-<br/>
+
 <a href="https://mail.google.com/mail/u/1/rudraprataps0110@gmail.com">
 <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
