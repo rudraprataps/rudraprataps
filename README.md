@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p align=""> <img src="https://komarev.com/ghpvc/?username=rudraprataps" alt="rudraprataps" /> </p>
 
 <br/>
 My name is Rudra Pratap Singh currently persuing BTech in ECE from Vellore Institute of Technology. I am an IOT and JAVA enthusiast and made many projects on it.  
@@ -12,8 +12,9 @@ My name is Rudra Pratap Singh currently persuing BTech in ECE from Vellore Insti
 - 📫 How to reach me: You can contact me through mail preferably or LinkedIN.  
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Love to work on new projects on electronics or Java. 
-<p align=""> <img src="https://komarev.com/ghpvc/?username=rudraprataps" alt="rudraprataps" /> </p>
+
 # Contact Me
+<br/>
 <a href="https://mail.google.com/mail/u/1/rudraprataps0110@gmail.com">
 <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
